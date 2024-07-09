@@ -1,0 +1,57 @@
+c:\users\110022\documents\visual studio 2010\Projects\ANSv1\ANSv1\bin\Release\ANSv1.exe.config
+c:\users\110022\documents\visual studio 2010\Projects\ANSv1\ANSv1\bin\Release\ANSv1.exe
+c:\users\110022\documents\visual studio 2010\Projects\ANSv1\ANSv1\bin\Release\ANSv1.pdb
+c:\users\110022\documents\visual studio 2010\Projects\ANSv1\ANSv1\bin\Release\NetTelebot.dll
+c:\users\110022\documents\visual studio 2010\Projects\ANSv1\ANSv1\bin\Release\Newtonsoft.Json.dll
+c:\users\110022\documents\visual studio 2010\Projects\ANSv1\ANSv1\bin\Release\RestSharp.dll
+c:\users\110022\documents\visual studio 2010\Projects\ANSv1\ANSv1\obj\x86\Release\ANSv1.MainForm.resources
+c:\users\110022\documents\visual studio 2010\Projects\ANSv1\ANSv1\obj\x86\Release\ANSv1.Properties.Resources.resources
+c:\users\110022\documents\visual studio 2010\Projects\ANSv1\ANSv1\obj\x86\Release\ANSv1.csproj.GenerateResource.Cache
+c:\users\110022\documents\visual studio 2010\Projects\ANSv1\ANSv1\obj\x86\Release\ANSv1.exe
+c:\users\110022\documents\visual studio 2010\Projects\ANSv1\ANSv1\obj\x86\Release\ANSv1.pdb
+C:\Users\110022\Documents\Visual Studio 2010\Projects\ANSv1\ANSv1\bin\Release\MetroFramework.Design.dll
+C:\Users\110022\Documents\Visual Studio 2010\Projects\ANSv1\ANSv1\bin\Release\MetroFramework.dll
+C:\Users\110022\Documents\Visual Studio 2010\Projects\ANSv1\ANSv1\bin\Release\MetroFramework.Fonts.dll
+E:\ \My Documents\Visual Studio 2010\Projects\Others\ANSv1\ANSv1\bin\Release\ANSv1.exe.config
+E:\ \My Documents\Visual Studio 2010\Projects\Others\ANSv1\ANSv1\bin\Release\ANSv1.exe
+E:\ \My Documents\Visual Studio 2010\Projects\Others\ANSv1\ANSv1\bin\Release\ANSv1.pdb
+E:\ \My Documents\Visual Studio 2010\Projects\Others\ANSv1\ANSv1\bin\Release\GSMCommShared.dll
+E:\ \My Documents\Visual Studio 2010\Projects\Others\ANSv1\ANSv1\bin\Release\GSMCommunication.dll
+E:\ \My Documents\Visual Studio 2010\Projects\Others\ANSv1\ANSv1\bin\Release\MetroFramework.Design.dll
+E:\ \My Documents\Visual Studio 2010\Projects\Others\ANSv1\ANSv1\bin\Release\MetroFramework.dll
+E:\ \My Documents\Visual Studio 2010\Projects\Others\ANSv1\ANSv1\bin\Release\MetroFramework.Fonts.dll
+E:\ \My Documents\Visual Studio 2010\Projects\Others\ANSv1\ANSv1\bin\Release\NetTelebot.dll
+E:\ \My Documents\Visual Studio 2010\Projects\Others\ANSv1\ANSv1\bin\Release\Newtonsoft.Json.dll
+E:\ \My Documents\Visual Studio 2010\Projects\Others\ANSv1\ANSv1\bin\Release\PDUConverter.dll
+E:\ \My Documents\Visual Studio 2010\Projects\Others\ANSv1\ANSv1\bin\Release\RestSharp.dll
+E:\ \My Documents\Visual Studio 2010\Projects\Others\ANSv1\ANSv1\obj\x86\Release\ANSv1.MainForm.resources
+E:\ \My Documents\Visual Studio 2010\Projects\Others\ANSv1\ANSv1\obj\x86\Release\ANSv1.Properties.Resources.resources
+E:\ \My Documents\Visual Studio 2010\Projects\Others\ANSv1\ANSv1\obj\x86\Release\ANSv1.Settings.resources
+E:\ \My Documents\Visual Studio 2010\Projects\Others\ANSv1\ANSv1\obj\x86\Release\ANSv1.csproj.GenerateResource.Cache
+E:\ \My Documents\Visual Studio 2010\Projects\Others\ANSv1\ANSv1\obj\x86\Release\ANSv1.exe
+E:\ \My Documents\Visual Studio 2010\Projects\Others\ANSv1\ANSv1\obj\x86\Release\ANSv1.pdb
+C:\Users\110022\Documents\Visual Studio 2010\Projects\ANSv1\ANSv1\bin\Release\GSMCommShared.dll
+C:\Users\110022\Documents\Visual Studio 2010\Projects\ANSv1\ANSv1\bin\Release\GSMCommunication.dll
+C:\Users\110022\Documents\Visual Studio 2010\Projects\ANSv1\ANSv1\bin\Release\PDUConverter.dll
+C:\Users\110022\Documents\Visual Studio 2010\Projects\ANSv1\ANSv1\obj\x86\Release\ANSv1.Settings.resources
+C:\Users\110022\Documents\Visual Studio 2010\Projects\ANSv1\ANSv1\obj\x86\Release\ANSv1.csprojResolveAssemblyReference.cache
+C:\Users\110022\Documents\Visual Studio 2010\Projects\ANS\Telegram\ANSv1\ANSv1\bin\Release\ANSv1.exe.config
+C:\Users\110022\Documents\Visual Studio 2010\Projects\ANS\Telegram\ANSv1\ANSv1\obj\x86\Release\ANSv1.exe
+C:\Users\110022\Documents\Visual Studio 2010\Projects\ANS\Telegram\ANSv1\ANSv1\obj\x86\Release\ANSv1.pdb
+C:\Users\110022\Documents\Visual Studio 2010\Projects\ANS\Telegram\ANSv1\ANSv1\bin\Release\ANSv1.exe
+C:\Users\110022\Documents\Visual Studio 2010\Projects\ANS\Telegram\ANSv1\ANSv1\bin\Release\ANSv1.pdb
+C:\Users\110022\Documents\Visual Studio 2010\Projects\ANS\Telegram\ANSv1\ANSv1\bin\Release\GSMCommShared.dll
+C:\Users\110022\Documents\Visual Studio 2010\Projects\ANS\Telegram\ANSv1\ANSv1\bin\Release\GSMCommunication.dll
+C:\Users\110022\Documents\Visual Studio 2010\Projects\ANS\Telegram\ANSv1\ANSv1\bin\Release\MetroFramework.Design.dll
+C:\Users\110022\Documents\Visual Studio 2010\Projects\ANS\Telegram\ANSv1\ANSv1\bin\Release\MetroFramework.dll
+C:\Users\110022\Documents\Visual Studio 2010\Projects\ANS\Telegram\ANSv1\ANSv1\bin\Release\MetroFramework.Fonts.dll
+C:\Users\110022\Documents\Visual Studio 2010\Projects\ANS\Telegram\ANSv1\ANSv1\bin\Release\NetTelebot.dll
+C:\Users\110022\Documents\Visual Studio 2010\Projects\ANS\Telegram\ANSv1\ANSv1\bin\Release\Newtonsoft.Json.dll
+C:\Users\110022\Documents\Visual Studio 2010\Projects\ANS\Telegram\ANSv1\ANSv1\bin\Release\PDUConverter.dll
+C:\Users\110022\Documents\Visual Studio 2010\Projects\ANS\Telegram\ANSv1\ANSv1\bin\Release\RestSharp.dll
+C:\Users\110022\Documents\Visual Studio 2010\Projects\ANS\Telegram\ANSv1\ANSv1\obj\x86\Release\ANSv1.csprojResolveAssemblyReference.cache
+C:\Users\110022\Documents\Visual Studio 2010\Projects\ANS\Telegram\ANSv1\ANSv1\obj\x86\Release\ANSv1.MainForm.resources
+C:\Users\110022\Documents\Visual Studio 2010\Projects\ANS\Telegram\ANSv1\ANSv1\obj\x86\Release\ANSv1.Properties.Resources.resources
+C:\Users\110022\Documents\Visual Studio 2010\Projects\ANS\Telegram\ANSv1\ANSv1\obj\x86\Release\ANSv1.Settings.resources
+C:\Users\110022\Documents\Visual Studio 2010\Projects\ANS\Telegram\ANSv1\ANSv1\obj\x86\Release\ANSv1.Splash.resources
+C:\Users\110022\Documents\Visual Studio 2010\Projects\ANS\Telegram\ANSv1\ANSv1\obj\x86\Release\ANSv1.csproj.GenerateResource.Cache
